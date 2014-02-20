@@ -1,0 +1,15 @@
+{
+  "name": "hugojosefson-apply-safely-for-angular",
+  "description": "Calls fn with or without scope.$apply(), depending on if current thread is already inside $apply(). For AngularJS.",
+  "version": "0.0.3.snapshot",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "apply",
+    "safe",
+    "digest"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
